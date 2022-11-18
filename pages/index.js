@@ -302,7 +302,7 @@ export default function Home() {
   //     "type": "function"
   //   }
   // ]
-  const NftAddress= "0x7133a16062C5A9059d35706518e94D1Fb726Ff6f";
+  const NftAddress= "0xe2Cede84EEfD3Dc407108b9F92746db9b235B61f";
   const NftAbi = [
     {
       "inputs": [],
